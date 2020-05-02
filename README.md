@@ -1,2 +1,2 @@
-# teste
+# addon
 Rock4u
